@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **FtSasaki/FtSasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,16 +17,16 @@ Here are some ideas to get you started:
 
 ## Info
 
-Hi There, I'm Akshay, A 17 Y.O. Programmer From India.
+👋 Hi There, I'm Aftab, Programmer From India.
 
 - :computer: I'm currently working on a "secret" project.
 - :school: I'm currently learning : cpp, react-native
-- :cat: Fun fact : I like cats
+- :cat: Fun fact : I like cats, food and programming.
 
 ## Where to find me
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/TheHamkerCat)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheHamkerCat)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/FtSasaki )
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FtSasaki)
 
 
 ## Languages
@@ -67,5 +65,5 @@ Hi There, I'm Akshay, A 17 Y.O. Programmer From India.
 
 ## Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=TheHamkerCat&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=TheHamkerCat&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
+![stats](https://github-readme-stats.vercel.app/api?username=FtSasaki&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=FtSasaki&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
