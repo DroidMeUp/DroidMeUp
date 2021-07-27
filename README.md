@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 ## Info
 
-👋 Hi There, I'm Aftab, Programmer From India.
+👋 Hi There, I'm Anonymous Programmer From India.
 
 - :computer: I'm currently working on a "secret" project.
 - :school: I'm currently learning : cpp, react-native
-- :cat: Fun fact : I like cats, food and programming.
+- :cat: Fun fact : I can *fix* this world but they won't give me the *source* code.
 
 ## Where to find me
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/FtSasaki )
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FtSasaki)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DroidKnight)
 
 
 ## Languages
