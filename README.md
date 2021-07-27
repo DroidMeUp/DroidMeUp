@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://i.ibb.co/xf0ht6z/shutterstock-753972046-350x233.jpg">
+<center>
+<img src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWNjb3VudHMlMjBwYXlhYmxlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80">
+</center>
 
 ## Info
 
