@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg">
+<img src="https://img.wallpapersafari.com/desktop/1920/1080/96/95/R7WTBM.jpg">
 
 ## Info
 
