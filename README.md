@@ -1,5 +1,5 @@
 <!--
-**FtSasaki/FtSasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DroidMeUp/DroidMeUp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Where to find me
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/FtSasaki )
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/DroidMeUp )
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DroidKnight)
 
 
@@ -64,5 +64,5 @@ Here are some ideas to get you started:
 
 ## Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=FtSasaki&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=FtSasaki&theme=juicyfresh&no-bg=true&no-frame=true&column=4&") <img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "right">
+![stats](https://github-readme-stats.vercel.app/api?username=DroidMeUp&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=DroidMeUp&theme=juicyfresh&no-bg=true&no-frame=true&column=4&") <img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "right">
